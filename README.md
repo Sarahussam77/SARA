@@ -74,10 +74,10 @@
 ## Connect with me  
 <div align="center">
 <a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img  alt="Gmail"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img  alt="Gmail"  src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sara-hossam-13610317a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  <a href="https://twitter.com/SaraHussam10">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
